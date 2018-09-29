@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+
+#back{
+	background-image: url(dark4.gif);
+		background-repeat: no-repeat;
+  		background-size: cover;
+}
+
+img{
+	width: 300px;
+}
+
+.border{
+	border: 2px white;
+		border-style: solid;
+			padding: 5px;
+}
+
+#card
+{
+ background-image: url(sea6.jpg);
+ 	background-repeat: no-repeat;
+ 		background-size: cover;
+ 			margin:  20px auto;
+ 				width: 330px;
+}
+
+#container {
+	font-size: 16px;
+		text-align: justify;
+			line-height: 1.5em;
+				color: white;
+					border: 5px solid white;
+  					border-radius: 5px;
+							padding: 10px;
+								font-family: 'Playfair Display SC', serif;
+}
+
+.title {
+  font-size: 35px;
+  	text-decoration-color: white;
+}
+
+ #list-of-facts{
+		font-weight: bold;
+			font-style: italic;
+				letter-spacing: 1px;
+					width: 100%;
+ }
+
+ .animal-info {
+	letter-spacing: 1px;
+		width:100%;
+		font-style: italic;
+
+}
+
+.end{
+	letter-spacing: 1px;
+		font-style: italic;
+}
+
+.facts{
+	font-style: italic;
+}
+
+ul{
+	list-style-type: none;
+		margin: 10px;
+     padding: 10px;
+}
